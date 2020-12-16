@@ -1,0 +1,9 @@
+food = 'brisket'
+is_delicious = true
+food = 'steak'
+num2 = 3
+num7 = 6
+quotient = num7/num2
+songs = ["Purple Rain", "Little Wing"]
+songs.shift
+food.length
