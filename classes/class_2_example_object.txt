@@ -1,0 +1,14 @@
+Instance: Wednesday, August 15
+
+Attributes:
+1. number_of_employees (8)
+2. wait_staff (["Susan", "Richard", "Denise", "Logan"])
+3. soup_of_the_day ("Tomato")
+4. open (true)
+5. opening_time (07:00:00)
+
+Methods:
+1. hire_waiters (number_of_employees = +1, add "Sallie" to array)
+2. close_at_eleven (alters open from true to false)
+3. new_day (open doors at 07:00:00, change "Pasta Fagioli" to "Tomato")
+4. fire_waiter (number_of_employees = -1, remove "Richard" from array)
