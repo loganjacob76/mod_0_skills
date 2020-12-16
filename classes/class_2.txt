@@ -1,0 +1,14 @@
+Class: Operation
+
+Attributes:
+1. number_of_employees (integer)
+2. wait_staff (array)
+3. soup_of_the_day (string)
+4. open (boolean)
+5. opening_time (datetime)
+
+Methods:
+1. hire_waiters (uses number_of_employees, wait_staff)
+2. close_at_eleven (uses open)
+3. new_day (uses opening_time, soup_of_the_day)
+4. fire_waiter (uses number_of_employees, wait_staff)
