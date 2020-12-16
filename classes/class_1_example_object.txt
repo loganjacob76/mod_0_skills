@@ -1,0 +1,14 @@
+Instance: Salad bowl
+
+Attributes:
+1. dish_size (7)
+2. dish_type ("bowl")
+3. type_of_food ("Caesar salad")
+4. clean (false)
+5. temperature (72.6)
+
+Methods:
+1. put_in_dishwasher (alters clean from false to true)
+2. holds_food (dish_type = "bowl", type_of_food = "Caesar salad")
+3. shareable (dish_size = 7 in., type_of_food = "Caesar salad")
+4. do_not_touch (temperature = 72.6 degrees so waiter will not give warning)
